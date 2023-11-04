@@ -1,4 +1,4 @@
-# appgradient 
+# Gradient-app 
 1. Uma aplicação em react-native-cli com typeScript para criar gradients
 
 ## módulos
