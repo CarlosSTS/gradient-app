@@ -14,7 +14,7 @@ O projeto contém os seguintes módulos
 
 ## Páginas do app
 
-<img src="https://github.com/CarlosSTS/appgradient/blob/master/images/gradient.png" alt="Foto do App Home" width="360" />
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fgradient-app%2Fgradient.png?alt=media&token=82634417-6682-4b91-aaa4-40c4eda37fbd" alt="Foto do App Home" width="360" />
 
 ## MOBILE
 
