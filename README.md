@@ -14,7 +14,7 @@ O projeto contém os seguintes módulos
 
 ## Páginas do app
 
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fgradient-app%2Fgradient.png?alt=media&token=82634417-6682-4b91-aaa4-40c4eda37fbd" alt="Foto do App Home" width="360" />
+<img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/gradient-app/gradient.png" alt="Foto do App Home" width="360" />
 
 ## MOBILE
 
@@ -34,5 +34,5 @@ RODANDO O PROJETO MOBILE
 ## Feito por Carlos Ferreira
 
 - [Github](https://www.github.com/CarlosSTS)
-- [Email](mailto://carlossts826@gmail.com)
+- [Email](mailto://carlossts.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
